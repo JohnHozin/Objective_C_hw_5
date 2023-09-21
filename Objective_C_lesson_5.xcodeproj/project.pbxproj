@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		554344722ABC32A6000E12F0 /* Loader.m in Sources */ = {isa = PBXBuildFile; fileRef = 554344712ABC32A6000E12F0 /* Loader.m */; };
 		554761042AB8A82000D222D1 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 554761032AB8A82000D222D1 /* AppDelegate.m */; };
 		554761072AB8A82000D222D1 /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 554761062AB8A82000D222D1 /* SceneDelegate.m */; };
 		5547610A2AB8A82000D222D1 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 554761092AB8A82000D222D1 /* ViewController.m */; };
@@ -17,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		554344702ABC32A6000E12F0 /* Loader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Loader.h; sourceTree = "<group>"; };
+		554344712ABC32A6000E12F0 /* Loader.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Loader.m; sourceTree = "<group>"; };
 		554760FF2AB8A82000D222D1 /* Objective_C_lesson_5.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Objective_C_lesson_5.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		554761022AB8A82000D222D1 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		554761032AB8A82000D222D1 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -72,6 +75,8 @@
 				554761102AB8A82200D222D1 /* LaunchScreen.storyboard */,
 				554761132AB8A82200D222D1 /* Info.plist */,
 				554761142AB8A82200D222D1 /* main.m */,
+				554344702ABC32A6000E12F0 /* Loader.h */,
+				554344712ABC32A6000E12F0 /* Loader.m */,
 			);
 			path = Objective_C_lesson_5;
 			sourceTree = "<group>";
@@ -150,6 +155,7 @@
 				554761042AB8A82000D222D1 /* AppDelegate.m in Sources */,
 				554761152AB8A82200D222D1 /* main.m in Sources */,
 				554761072AB8A82000D222D1 /* SceneDelegate.m in Sources */,
+				554344722ABC32A6000E12F0 /* Loader.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
